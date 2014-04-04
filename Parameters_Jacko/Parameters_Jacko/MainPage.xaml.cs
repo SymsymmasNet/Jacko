@@ -39,8 +39,5 @@ namespace Parameters_Jacko
          * */
 
     }
-    private async void inPublicActivatedClicked (object sender, RoutedEventArgs e){
-
-        }
 
 }
